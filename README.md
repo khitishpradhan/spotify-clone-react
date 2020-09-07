@@ -4,6 +4,9 @@ This app is a demo clone of Spotify (using their spotify api) that I to created 
 
 The live demo is available at (https://kitzx-spotify-clone.netlify.app).
 
+## note 
+Spotify provided 30secs preview of the songs so we cannot hear the full audio. Its only a demo. Also some songs may not at all play because spotify provides only for some of them.
+
 
 
 
@@ -13,5 +16,4 @@ The live demo is available at (https://kitzx-spotify-clone.netlify.app).
 ![Capture1](https://user-images.githubusercontent.com/36028384/92411399-5481b900-f165-11ea-9821-8fcbeb29bf1d.PNG)
 
 
-## note 
-Spotify provided 30secs preview of the songs so we cannot hear the full audio. Its only a demo. Also some songs may not at all play because spotify provides only for some of them.
+
