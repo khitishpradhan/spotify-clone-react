@@ -8,4 +8,4 @@ The live demo is available at (https://kitzx-spotify-clone.netlify.app).
 
 
 
-##Project Screen shots 
+## Project Screen shots 
