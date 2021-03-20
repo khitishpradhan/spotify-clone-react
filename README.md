@@ -4,7 +4,7 @@ This app is a demo clone of Spotify (using their spotify api) that I to created 
 
 The live demo is available at (https://kitzx-spotify-clone.netlify.app).
 
-Firebase only provides free acces for 30 days so, app's back-end might be not working when you're visitng it.
+Firebase only provides free access for 30 days so, app's back-end might be not working when you're visitng it.
 
 
 ## note 
